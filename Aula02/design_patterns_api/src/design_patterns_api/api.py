@@ -4,7 +4,7 @@ from .payments import PaymentService, PaymentGateway
 from .factory import shape_factory
 from .observe import Subject, ConcreteObserver
 
-api= FastAPI()
+api= fastapi.FastAPI()
 
 @api.get("/")
 def index():
