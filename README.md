@@ -913,7 +913,7 @@ Your project will be evaluated based on the quality of what you deliver and how 
      - Implementation challenges and how you solved them.
 
 6. **Testing** (2 point)
-   - Unit and integration tests.
+   - Unit and integration tests. (minimum of 1 meaningfull test per feature )
    - Instructions to run tests.
 
 7. **Deployment** (3 point)
